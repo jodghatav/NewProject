@@ -11,7 +11,7 @@
     <groupId>com.jodhghatav</groupId>
     <artifactId>jodhghatav</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>debtmanagement</name>
     <description>Demo project for Debt Management</description>
 
